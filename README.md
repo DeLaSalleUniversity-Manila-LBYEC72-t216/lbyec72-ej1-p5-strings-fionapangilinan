@@ -9,10 +9,3 @@ The main selection screen
 
 ![](ss3.jpg)
 
-![](ss4.jpg)
-
-![](ss5.jpg)
-
-![](ss6.jpg)
-
-![](ss7.jpg)
